@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VrishtiD
-- 👀 I’m interested in Artificial intelligence software development
+- 👀 I’m interested in software development, Artificial Intelligence and cybersecurity
 - 🌱 I’m currently learning Bachelor's in computer science from Dalhousie University
 - 📫 How to reach me Instagram @vrishtidawra
                      Linkedin  www.linkedin.com/in/vrishti-dawra-257344230
