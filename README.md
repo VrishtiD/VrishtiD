@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @VrishtiD
 - 👀 I’m interested in software development, Artificial Intelligence and cybersecurity
-- 🌱 I’m currently learning Bachelor's in computer science from Dalhousie University
+- 🌱 I’m currently Graduating from Bachelor's in Applied Computer Science with a minor in Management from Dalhousie University
 - 📫 How to reach me Instagram @vrishtidawra
                      Linkedin  www.linkedin.com/in/vrishti-dawra-257344230
 
-<!---
-VrishtiD/VrishtiD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
